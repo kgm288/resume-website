@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Video Compressor",
+    "description": "Python・TCP通信・FFmpegを利用した動画変換サービス",
+    "technology": ["Python", "TCP", "FFmpeg", "JSON"],
+    "github": "https://github.com/kgm2888/video_compressor"
+  },
+  {
+    "title": "Resume Website",
+    "description": "EC2・Nginx・DNS・HTTPSを使って公開した静的ポートフォリオサイト",
+    "technology": ["HTML", "CSS", "JavaScript", "JSON", "EC2", "Nginx", "HTTPS"],
+    "github": "https://github.com/kgm2888"
+  }
+]
