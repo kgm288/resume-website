@@ -9,6 +9,6 @@
     "title": "Resume Website",
     "description": "EC2・Nginx・DNS・HTTPSを使って公開した静的ポートフォリオサイト",
     "technology": ["HTML", "CSS", "JavaScript", "JSON", "EC2", "Nginx", "HTTPS"],
-    "github": "https://github.com/kgm2888"
+    "github": "https://github.com/kgm288/resume-website"
   }
 ]
